@@ -4,3 +4,4 @@
 - Toujours faire les choses de manières profesionnelle
 - Une ligne de plus pour rendre les choses plus intéressantes
 - Git est un formidable outil
+- Merci beaucoup à la communauté open-source
