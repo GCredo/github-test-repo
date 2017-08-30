@@ -1,3 +1,4 @@
 Création d'un nouveau fichier pour les tests de pull
 - Ajoutons une ligne en local au fichier1.txt qui a été créé sur github
 - Qui a eu l'idée de git ?
+- Mon disque dur externe me sert de remote externe.
