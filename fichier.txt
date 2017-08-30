@@ -5,3 +5,4 @@
 - Une ligne de plus pour rendre les choses plus intéressantes
 - Git est un formidable outil
 - Merci beaucoup à la communauté open-source
+- Je n'arrête pas de faire l'éloge de Git
